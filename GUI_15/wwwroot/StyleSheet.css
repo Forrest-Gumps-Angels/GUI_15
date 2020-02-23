@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #ffffcc;
+    width: 50%;
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer {
+    background-color: #ccaa66;
+    text-align: center;
+    font-size:0.6em;
+}
+
+
+.title {
+    background-color: #ccaa66;
+    text-align:center;
+    padding:1px;
+    margin-bottom:7px;
+}
+
+
+.navigationMenu {
+    text-align: center;
+}
